@@ -9,6 +9,6 @@ const Navigation = () => {
         <Button>reset</Button>
       </div>
     );
-  };
+};
 
-  export default Navigation;
+export default Navigation;

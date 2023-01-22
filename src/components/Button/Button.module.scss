@@ -15,7 +15,7 @@
     transition: $transition;
 
     &:hover {
-        background: darken($color-success, 5%);
+        background: darken($color-success, 10%);
     }
 
     &.danger {
