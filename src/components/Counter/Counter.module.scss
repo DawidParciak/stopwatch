@@ -1,6 +1,10 @@
 @import '../../styles/settings.scss';
 
 .counter {
-    padding-bottom: $base-size;
-    font-size: $base-size * 5;
+    width: 100%;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
 }
